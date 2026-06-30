@@ -7,4 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "torch>=2.12.1",
     "ucimlrepo>=0.0.7",
+    "scikit-learn>=1.6.0",
 ]
